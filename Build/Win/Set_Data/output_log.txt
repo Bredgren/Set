@@ -1,0 +1,49 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7633
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Documents\dev\unity\SET\Build\Win\Set_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Documents\dev\unity\SET\Build\Win\Set_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Documents\dev\unity\SET\Build\Win\Set_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Documents\dev\unity\SET\Build\Win\Set_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Documents\dev\unity\SET\Build\Win\Set_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Documents\dev\unity\SET\Build\Win\Set_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Documents\dev\unity\SET\Build\Win\Set_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Documents\dev\unity\SET\Build\Win\Set_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Documents\dev\unity\SET\Build\Win\Set_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Documents\dev\unity\SET\Build\Win\Set_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.115 seconds
+Platform assembly: D:\Documents\dev\unity\SET\Build\Win\Set_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Documents\dev\unity\SET\Build\Win\Set_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 6840x1920 at -3840,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.109068 ms
+Check SET: 16 34 79 True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Check SET: 12 67 39 False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NOT SET
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Check SET: 39 67 14 True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Check SET: 18 72 45 True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 9ec4 -> priority: 1 

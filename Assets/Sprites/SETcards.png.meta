@@ -1,0 +1,1307 @@
+fileFormatVersion: 2
+guid: 79483582e7ceeed44bf2984a30be8434
+timeCreated: 1485640513
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SETcards 1_0
+    21300002: SETcards 1_1
+    21300004: SETcards 1_2
+    21300006: SETcards 1_3
+    21300008: SETcards 1_4
+    21300010: SETcards 1_5
+    21300012: SETcards 1_6
+    21300014: SETcards 1_7
+    21300016: SETcards 1_8
+    21300018: SETcards 1_9
+    21300020: SETcards 1_10
+    21300022: SETcards 1_11
+    21300024: SETcards 1_12
+    21300026: SETcards 1_13
+    21300028: SETcards 1_14
+    21300030: SETcards 1_15
+    21300032: SETcards 1_16
+    21300034: SETcards 1_17
+    21300036: SETcards 1_18
+    21300038: SETcards 1_19
+    21300040: SETcards 1_20
+    21300042: SETcards 1_21
+    21300044: SETcards 1_22
+    21300046: SETcards 1_23
+    21300048: SETcards 1_24
+    21300050: SETcards 1_25
+    21300052: SETcards 1_26
+    21300054: SETcards 1_27
+    21300056: SETcards 1_28
+    21300058: SETcards 1_29
+    21300060: SETcards 1_30
+    21300062: SETcards 1_31
+    21300064: SETcards 1_32
+    21300066: SETcards 1_33
+    21300068: SETcards 1_34
+    21300070: SETcards 1_35
+    21300072: SETcards 1_36
+    21300074: SETcards 1_37
+    21300076: SETcards 1_38
+    21300078: SETcards 1_39
+    21300080: SETcards 1_40
+    21300082: SETcards 1_41
+    21300084: SETcards 1_42
+    21300086: SETcards 1_43
+    21300088: SETcards 1_44
+    21300090: SETcards 1_45
+    21300092: SETcards 1_46
+    21300094: SETcards 1_47
+    21300096: SETcards 1_48
+    21300098: SETcards 1_49
+    21300100: SETcards 1_50
+    21300102: SETcards 1_51
+    21300104: SETcards 1_52
+    21300106: SETcards 1_53
+    21300108: SETcards 1_54
+    21300110: SETcards 1_55
+    21300112: SETcards 1_56
+    21300114: SETcards 1_57
+    21300116: SETcards 1_58
+    21300118: SETcards 1_59
+    21300120: SETcards 1_60
+    21300122: SETcards 1_61
+    21300124: SETcards 1_62
+    21300126: SETcards 1_63
+    21300128: SETcards 1_64
+    21300130: SETcards 1_65
+    21300132: SETcards 1_66
+    21300134: SETcards 1_67
+    21300136: SETcards 1_68
+    21300138: SETcards 1_69
+    21300140: SETcards 1_70
+    21300142: SETcards 1_71
+    21300144: SETcards 1_72
+    21300146: SETcards 1_73
+    21300148: SETcards 1_74
+    21300150: SETcards 1_75
+    21300152: SETcards 1_76
+    21300154: SETcards 1_77
+    21300156: SETcards 1_78
+    21300158: SETcards 1_79
+    21300160: SETcards 1_80
+    21300162: SETcards_0
+    21300164: SETcards_1
+    21300166: SETcards_2
+    21300168: SETcards_3
+    21300170: SETcards_4
+    21300172: SETcards_5
+    21300174: SETcards_6
+    21300176: SETcards_7
+    21300178: SETcards_8
+    21300180: SETcards_9
+    21300182: SETcards_10
+    21300184: SETcards_11
+    21300186: SETcards_12
+    21300188: SETcards_13
+    21300190: SETcards_14
+    21300192: SETcards_15
+    21300194: SETcards_16
+    21300196: SETcards_17
+    21300198: SETcards_18
+    21300200: SETcards_19
+    21300202: SETcards_20
+    21300204: SETcards_21
+    21300206: SETcards_22
+    21300208: SETcards_23
+    21300210: SETcards_24
+    21300212: SETcards_25
+    21300214: SETcards_26
+    21300216: SETcards_27
+    21300218: SETcards_28
+    21300220: SETcards_29
+    21300222: SETcards_30
+    21300224: SETcards_31
+    21300226: SETcards_32
+    21300228: SETcards_33
+    21300230: SETcards_34
+    21300232: SETcards_35
+    21300234: SETcards_36
+    21300236: SETcards_37
+    21300238: SETcards_38
+    21300240: SETcards_39
+    21300242: SETcards_40
+    21300244: SETcards_41
+    21300246: SETcards_42
+    21300248: SETcards_43
+    21300250: SETcards_44
+    21300252: SETcards_45
+    21300254: SETcards_46
+    21300256: SETcards_47
+    21300258: SETcards_48
+    21300260: SETcards_49
+    21300262: SETcards_50
+    21300264: SETcards_51
+    21300266: SETcards_52
+    21300268: SETcards_53
+    21300270: SETcards_54
+    21300272: SETcards_55
+    21300274: SETcards_56
+    21300276: SETcards_57
+    21300278: SETcards_58
+    21300280: SETcards_59
+    21300282: SETcards_60
+    21300284: SETcards_61
+    21300286: SETcards_62
+    21300288: SETcards_63
+    21300290: SETcards_64
+    21300292: SETcards_65
+    21300294: SETcards_66
+    21300296: SETcards_67
+    21300298: SETcards_68
+    21300300: SETcards_69
+    21300302: SETcards_70
+    21300304: SETcards_71
+    21300306: SETcards_72
+    21300308: SETcards_73
+    21300310: SETcards_74
+    21300312: SETcards_75
+    21300314: SETcards_76
+    21300316: SETcards_77
+    21300318: SETcards_78
+    21300320: SETcards_79
+    21300322: SETcards_80
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SETcards_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2241
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2241
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_2
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2241
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_3
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 2241
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_4
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 2241
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_5
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 2241
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_6
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 2241
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_7
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 2241
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_8
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 2241
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1961
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_10
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1961
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_11
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1961
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_12
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1961
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_13
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1961
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_14
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1961
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_15
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 1961
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_16
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1961
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_17
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1961
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1681
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_19
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1681
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_20
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1681
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_21
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1681
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_22
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1681
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_23
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1681
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_24
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 1681
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_25
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1681
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_26
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1681
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1401
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_28
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1401
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_29
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1401
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_30
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1401
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_31
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1401
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_32
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1401
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_33
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 1401
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_34
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1401
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_35
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1401
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1121
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_37
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1121
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_38
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1121
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_39
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1121
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_40
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1121
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_41
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1121
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_42
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 1121
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_43
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1121
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_44
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1121
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 841
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_46
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 841
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_47
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 841
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_48
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 841
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_49
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 841
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_50
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 841
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_51
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 841
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_52
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 841
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_53
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 841
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_54
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 561
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_55
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 561
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_56
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 561
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_57
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 561
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_58
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 561
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_59
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 561
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_60
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 561
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_61
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 561
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_62
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 561
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 281
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_64
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 281
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_65
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 281
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_66
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 281
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_67
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 281
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_68
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 281
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_69
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 281
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_70
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 281
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_71
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 281
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_72
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_73
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_74
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_75
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_76
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_77
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_78
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 1
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_79
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SETcards_80
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
