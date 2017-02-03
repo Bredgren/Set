@@ -34,7 +34,7 @@ public class Card : MonoBehaviour {
 		if (!manager.SetupDone() || UIManager.instance.PlayerPanelOpen() || CardManager.instance.waiting) {
 			return;
 		}
-#if UNITY_STANDALONE || UNITY_EDITOR
+#if UNITY_STANDALONE || UNITY_EDITOR || UNITY_WEBGL
 		transform.localScale = new Vector3(1.1f, 1.1f, 1.0f);
 #endif
 	}
