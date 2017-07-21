@@ -1,7 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
 
 public class CardManager : MonoBehaviour {
 	public static CardManager instance = null;
@@ -72,7 +71,7 @@ public class CardManager : MonoBehaviour {
 			select2.targetPos = mousePos + offset;
 			select3.targetPos = mousePos + offset * 2;
 		}
-	} 
+	}
 
 	public bool SetupDone() {
 		return setupDone;
@@ -129,6 +128,7 @@ public class CardManager : MonoBehaviour {
 			DrawCard();
 			yield return new WaitForSeconds(0.1f);
 		}
+		CheckGameOver();
 		yield return null;
 	}
 
@@ -203,13 +203,12 @@ public class CardManager : MonoBehaviour {
 		select1 = null;
 		select2 = null;
 		select3 = null;
-		CheckGameOver();
 	}
 
 	private bool IsSet(int a, int b, int c) {
 		return c == (mod(-(a+b), 3) + (mod(-((a/3)+(b/3)), 3))*3 + (mod(-((a/9)+(b/9)), 3))*9 + (mod(-((a/27) + (b/27)), 3))*27);
 	}
-	
+
 	private int mod(int a, int b) {
 		return ((a % b) + b) % b;
 	}
@@ -265,6 +264,7 @@ public class CardManager : MonoBehaviour {
 	}
 
 	private void CheckGameOver() {
+		Debug.Log("Check for Game Over " + deck.CardsLeft());
 		if (deck.CardsLeft() > 0) {
 			return;
 		}
@@ -279,12 +279,14 @@ public class CardManager : MonoBehaviour {
 						continue;
 					}
 					if (IsSet(c1.ID(), c2.ID(), c3.ID())) {
+						Debug.Log("Not game over: " + c1.ID() + " " + c2.ID() + " " + c3.ID());
 						return;
 					}
 				}
 			}
 		}
 
+		Debug.Log("Game Over");
 		GameManager.instance.GameOver();
 	}
 }

@@ -1,5 +1,4 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Card : MonoBehaviour {
@@ -24,7 +23,7 @@ public class Card : MonoBehaviour {
 	public int ID() {
 		return id;
 	}
-	
+
 	void Update () {
 		Vector3 dir = targetPos - transform.position;
 		transform.position += dir * 0.5f;

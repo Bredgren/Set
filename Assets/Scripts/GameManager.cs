@@ -1,4 +1,3 @@
-﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -24,7 +23,7 @@ public class GameManager : MonoBehaviour {
 		}
 		players.Add(p);
 	}
-	
+
 	public void GameOver() {
 		FindObjectOfType<UIManager>().ShowElements();
 	}
